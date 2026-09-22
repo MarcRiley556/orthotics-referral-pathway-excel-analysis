@@ -1,5 +1,9 @@
 # Orthotics Referral Pathway – Excel Service Improvement Analysis
 
+## Dashboard
+
+![Orthotics Referral Pathway Dashboard](orthotics-dashboard.png)
+
 ## Project Overview
 
 This project evaluates a healthcare orthotics referral pathway before and after the introduction of a direct-referral model.
