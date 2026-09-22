@@ -115,13 +115,6 @@ Clinical outcomes following orthotic provision and full financial modelling were
 
 ---
 
-## Project Files
-
-- **Excel workbook** – data cleaning, analysis, validation and final dashboard
-- **Evaluation report** – project context, methodology, findings and recommendations
-- **Dashboard image** – portfolio preview of the final Excel dashboard
-
----
 
 ## Skills Demonstrated
 
