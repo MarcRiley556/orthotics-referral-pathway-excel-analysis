@@ -1,8 +1,5 @@
 # Orthotics Referral Pathway – Excel Service Improvement Analysis
 
-## Dashboard
-
-![Orthotics Referral Pathway Dashboard](orthotics-dashboard.png)
 
 ## Project Overview
 
@@ -13,6 +10,20 @@ Historically, Community Rehabilitation Team (CRT) clinicians referred patients t
 The analysis also explored referral demand and whether holding commonly requested orthotic products within the community service would be practical.
 
 > **Portfolio note:** This is an anonymised portfolio adaptation of a healthcare service-improvement project. Patient and staff identifiers have been removed or replaced, and some data has been synthetically adapted. No patient-identifiable information is included.
+
+---
+
+## Dashboard
+
+![Orthotics Referral Pathway Dashboard](orthotics-dashboard.png)
+
+---
+
+## Project Files
+
+- [Download the Excel workbook](Orthotics_pathway_portfolio_git_hub.xlsx) – cleaned data, reference tables, exploratory analysis, validation and final dashboard
+- [View the full evaluation report](Orthotics_Referral_Pathway_Evaluation_Portfolio_Report.docx) – project context, methodology, findings and recommendations
+- [View the dashboard](orthotics-dashboard.png) – final Excel dashboard
 
 ---
 
